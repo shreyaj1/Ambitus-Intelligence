@@ -1,3 +1,6 @@
 [submodule "ambitus-ai-models"]
 	path = ambitus-ai-models
 	url = https://github.com/shreyaj1/ambitus-ai-models
+[submodule ".github"]
+	path = .github
+	url = https://github.com/shreyaj1/.github
