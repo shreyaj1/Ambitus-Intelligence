@@ -21,11 +21,15 @@ Currently in active development, with an initial focus on **scalable multi-agent
 ---
 
 ## 📂 Repository Structure
+<pre>
 Ambitus-Intelligence/
-├── 📂 ambitus-ai-models # Core AI/ML models
-├── 📂 ambitus-frontend # Frontend application
-├── 📂 .github # GitHub workflows & configs
-└── 📄 README.md # Project documentation
+├── 📂 ambitus-ai-models      # Core AI/ML models
+├── 📂 ambitus-frontend       # Frontend application
+├──  📂 .github               # GitHub workflows & configs
+└── README.md                 # Project documentation
+  
+</pre>
+
 
 ---
 
