@@ -4,3 +4,6 @@
 [submodule ".github"]
 	path = .github
 	url = https://github.com/shreyaj1/.github
+[submodule "ambitus-frontend"]
+	path = ambitus-frontend
+	url = https://github.com/shreyaj1/ambitus-frontend
