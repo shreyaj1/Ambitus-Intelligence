@@ -1,0 +1,3 @@
+[submodule "ambitus-ai-models"]
+	path = ambitus-ai-models
+	url = https://github.com/shreyaj1/ambitus-ai-models
